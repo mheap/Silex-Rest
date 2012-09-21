@@ -1,5 +1,5 @@
 {
-    "name": "mheap/Rest",
+    "name": "mheap/rest",
     "description": "REST Api extension for Silex",
     "keywords": ["silex", "api", "rest", "json", "xml"],
     "homepage": "https://github.com/mheap/Silex-Rest",
