@@ -1,0 +1,29 @@
+{
+    "name": "mheap/Rest",
+    "description": "REST Api extension for Silex",
+    "keywords": ["silex", "api", "rest", "json", "xml"],
+    "homepage": "https://github.com/mheap/Silex-Rest",
+    "type": "library",
+    "license": "MIT",
+    "version": "dev",
+    "authors": [
+        {
+            "name": "Michael Heap",
+            "email": "m@michaelheap.com",
+            "homepage": "http://michaelheap.com/"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "require-dev": {
+        "silex/silex": "*",
+        "twig/twig": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "mheap": "src"
+        }
+    },
+    "minimum-stability": "dev"
+}
